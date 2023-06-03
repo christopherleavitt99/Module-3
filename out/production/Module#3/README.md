@@ -12,9 +12,8 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VS Code and IntelliJ IDE CE in I used Kotlin to create the software.
 
-{Describe the programming language that you used and any libraries.}
 
 # Useful Websites
 

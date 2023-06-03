@@ -2,17 +2,18 @@
 
 {Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+I took plenty of examples from the Tutorial and used them in IntelliJ to display classes, methods, interfaces, etc.
 
-{Describe your purpose for writing this software.}
+I wrote this software to demonstrate what I've learned about coding in the Kotlin language.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough
+of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]()
 
 # Development Environment
 
-I used VS Code and IntelliJ IDE CE in I used Kotlin to create the software.
+I used VS Code and IntelliJ IDE CE and I used Kotlin to create the software.
 
 
 # Useful Websites
@@ -31,6 +32,6 @@ I used VS Code and IntelliJ IDE CE in I used Kotlin to create the software.
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1
-- Item 2
-- Item 3
+- Be a bit more focused on writing newer code instead using code from the readings.
+- Start work on code early on in case of computer troubles (in my case, it was my MacBook's keyboard losing a key and 
+having to buy an external keyboard to finish)
